@@ -145,3 +145,7 @@ Content moderation in messaging applications
 COMCLUSION
 
 This Spam Message Detection project demonstrates how machine learning and NLP can be effectively used to solve real-world problems. By using a simple yet powerful algorithm like Naive Bayes, the system achieves accurate classification of spam messages. The project is easy to understand, scalable, and suitable for beginners as well as academic projects. It can be further enhanced by using advanced NLP techniques or deep learning models in the future.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d7de9777-b369-4956-bde3-163f7179b6e2)
